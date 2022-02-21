@@ -5,3 +5,6 @@
 5. Fried Rice
 6. Hot Dog
 7. Soup
+8. Pizza
+9. Lasagna
+10. Babaganoush
