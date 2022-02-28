@@ -6,3 +6,12 @@
 6. Hot Dog
 7. BLT
 8. Oatmeal
+7. Soup
+8. Pizza
+9. Lasagna
+10. Babaganoush
+11. Chicken Sandwich
+12. Eggplant Parm
+13. Pad Thai
+14. Chicken Tikka Masala
+15. Apple Pie
